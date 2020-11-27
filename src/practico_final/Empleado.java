@@ -14,7 +14,7 @@ public class Empleado {
     private String cedula;
     private int numeroEmpleado;
     private String fechaIngreso;
-    
+    //comentario de prueba
     public String getNombre() {
         return nombre;
     }
